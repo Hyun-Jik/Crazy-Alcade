@@ -1,4 +1,4 @@
-# Crazy-Alcade
+# Crazy-Alcade : 우수상(3위)🏆
 
 ### 🗓️ 프로젝트 진행 기간
 
